@@ -1,1 +1,1 @@
-{"id":"8bc2d418-e23f-4614-a743-b722b5457447","space":23031,"runtime":"python3.9","name":"fastapi-project1","path":"yw15hj","project":"c0o0px6s","account":"144798365827","region":"ap-southeast-1","deps":["fastapi"],"envs":null,"public":true,"log_level":"debug","cron":""}
+{"id":"da1f5694-1edb-4934-89a8-910a84a17d4e","space":23031,"runtime":"python3.9","name":"fastapi-project1","path":"feuulb","project":"c0o0px6s","account":"144798365827","region":"ap-southeast-1","deps":["fastapi"],"envs":null,"public":true,"log_level":"debug","cron":""}
