@@ -1,3 +1,6 @@
 Visit https://fastapi.tiangolo.com/deployment/deta/
 
 Follow the steps
+
+Note:
+1. .deta directory is automatically created. dont create it manually or dont download it from repo
